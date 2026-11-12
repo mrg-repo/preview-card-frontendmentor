@@ -30,7 +30,7 @@ All users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/mrg-repo/preview-card-frontendmentor)
-- Live Site URL: [GitHub Pages](https://YOUR-USERNAME.github.io/blog-preview-card/)
+- Live Site URL: [GitHub Pages](https://mrg-repo.github.io/preview-card-frontendmentor/) 
 
 ## My process
 I started with the HTML formatting and then transitioned to CSS with general styling coming first and more specific styling traits coming after. 
